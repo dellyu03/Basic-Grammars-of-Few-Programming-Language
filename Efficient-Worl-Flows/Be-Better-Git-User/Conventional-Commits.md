@@ -69,7 +69,7 @@ feat!)
 - **perf** : 성능 개선 관련 코드 변경
 - **chore** : 기타 코드 변경
 
-### ) Title 작성 원칙
+### 2) Title 작성 원칙
 > Conventional Commits의 Title을 작성하는 방법
 
 ex) fix:remove deprecated features
@@ -105,7 +105,7 @@ ex) fix:remove deprecated features
 #### 5. 변경한 이유 설명은 Body에
 - 타이틀은 50글자 제한이 있어 사유와 상세 설명은 본문에 담기
 
-### ) Body와 footer
+### 3) Body와 footer
 
 #### 1. Body
 > 코드 변경 사유, 상세 설명
