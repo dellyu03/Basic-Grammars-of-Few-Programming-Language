@@ -48,7 +48,7 @@ language: javascript starts:>100 label:"documentation"
 [Git hub Explore](https://github.com/explore)를 활용해 다양한 주제에 관련된 저장소를 찾을 수 있다.
 
 ## IV. 커뮤니티 활용
-특정 커뮤니티에서 제공하는 
+특정 커뮤니티에서 제공하는 좋은 저장소 모음집
 
 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
