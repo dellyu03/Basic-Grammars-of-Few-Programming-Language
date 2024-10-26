@@ -17,7 +17,6 @@
     - [Architecture](./Efficient-Work-Flows/Architecture/Architecture-Description.md)
     - [Programming Format](./Efficient-Work-Flows/Programming-Format/Programming-Format.md)
     - Etc..
-s
 
 
 
