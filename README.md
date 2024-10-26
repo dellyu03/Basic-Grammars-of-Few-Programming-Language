@@ -7,8 +7,8 @@
 
 # Content
 - ## Basic Grammars
-    - Basic Programming Grammars that I use (
-Organized by language)
+    - [Basic Programming Grammars that I use 
+(Organized by language)](./basic-grammars/Basic-Grammars.md)
     - Language-specific knowledge I need to know when developing
     (ex. JS's variable hosting)
 
