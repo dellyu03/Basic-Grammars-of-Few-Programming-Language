@@ -2,7 +2,7 @@
 
 > Progrmaing Knowledge that I frequently sought
 
-> Basic Programming Grammars, efficient-Work-Flows
+> Basic Programming syntaxes, efficient-Work-Flows
 
 
 # Content
@@ -17,8 +17,7 @@
     - [Architecture](./Efficient-Work-Flows/Architecture/Architecture-Description.md)
     - [Programming Format](./Efficient-Work-Flows/Programming-Format/Programming-Format.md)
     - Etc..
-
-[](./Bassic-Programming-Syntaxes/Basic-Programming-Syntaxes.md)
+s
 
 
 
