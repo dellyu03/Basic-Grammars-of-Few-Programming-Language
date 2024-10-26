@@ -40,7 +40,22 @@ language: javascript starts:>100 label:"documentation"
 ```
 
 ## II. Top-Repositories-List
+> GitHub Explore 활용
+
+[Git hub Explore](https://github.com/explore)의 [Topics](https://github.com/topics)페이지를 활용하여 특정 태그에 관련된 인기 저장소를 찾을 수 있다.
 
 ## III. Github Explore 활용
+[Git hub Explore](https://github.com/explore)를 활용해 다양한 주제에 관련된 저장소를 찾을 수 있다.
 
 ## IV. 커뮤니티 활용
+특정 커뮤니티에서 제공하는 
+
+[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+[awesome-datascience](https://github.com/academic/awesome-datascience)
+
+[awesome-rest](https://github.com/marmelab/awesome-rests)
+
+[awesome-korean-nlp](https://github.com/datanada/awesome-korean-nlp)
+
+[awesome-devlog](https://github.com/sarojaba/awesome-devblog)
