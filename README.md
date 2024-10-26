@@ -14,8 +14,8 @@
 
 - ## Efficient-Work-Flows
     - [Be a Better Git User](./Efficient-Work-Flows/Be-Better-Git-User/Description.md)
-    - Architecture
-    - Programming Format
+    - [Architecture](./Efficient-Work-Flows/Architecture/Architecture-Description.md)
+    - [Programming Format](./Efficient-Work-Flows/Programming-Format/Programming-Format.md)
     - Etc..
 
 
