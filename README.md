@@ -7,8 +7,8 @@
 
 # Content
 - ## Basic Grammars
-    - [Basic Programming Grammars that I use
-(Organized by language)](./Basic-Programming-Grammars-That-I-Use/Basic-Grammars.md)
+    - [Basic Programming Syntaxses that I use
+(Organized by language)](./Bassic-Programming-Syntaxes/Basic-Programming-Syntaxes.md)
     - Language-specific knowledge I need to know when developing
     
 
@@ -18,7 +18,7 @@
     - [Programming Format](./Efficient-Work-Flows/Programming-Format/Programming-Format.md)
     - Etc..
 
-
+[](./Bassic-Programming-Syntaxes/Basic-Programming-Syntaxes.md)
 
 
 

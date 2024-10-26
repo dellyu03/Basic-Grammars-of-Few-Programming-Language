@@ -1,5 +1,5 @@
-# Basic Grammars
-> Collection ob basic programming syntax
+# Basic-Programming-Syntaxes
+> Collection ob basic programming syntaxes
 
 ## Content
 
