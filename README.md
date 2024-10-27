@@ -9,7 +9,7 @@
 - ## Basic syntaxes
     - [Basic Programming Syntaxses that I use
 (Organized by language)](./Bassic-Programming-Syntaxes/Basic-Programming-Syntaxes.md)
-    - Language-specific knowledge I need to know when developing
+  
     
 
 - ## Efficient-Work-Flows
