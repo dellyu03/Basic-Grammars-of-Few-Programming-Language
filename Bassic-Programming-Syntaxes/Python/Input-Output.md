@@ -1,4 +1,4 @@
-# input, Out
+# input, Output
 > 파이썬의 입력과 출력
 
 ## 입력
