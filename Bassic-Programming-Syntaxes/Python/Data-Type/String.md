@@ -117,6 +117,9 @@ string = "Hello {lang}".format(lang="python")
 
 ## f문자열 포매팅
 위 기능에 추가적으로 표현식을 지원함 (ex. 10+1) 
+```
+string = f"Hello world {name}"
+```
 
 ## 문자열 관련 함수
 > 자주 사용하는 함수 기준
