@@ -19,5 +19,9 @@
     - [Basic Ide usage](./Efficient-Work-Flows/Basic-IDE-Usage/Basic-IDE-Usage.md)
     - Etc..
 
+- ## CodingTest
+    - [Python](./CodingTest/Python/CodingTest-Python.md)
+    - [Node.Js](./CodingTest/Node.js/CodingTest-NodeJS.md)
+    - [Java](./CodingTest/Java/CodingTest-Java.md)
 
 
