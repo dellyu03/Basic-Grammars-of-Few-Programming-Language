@@ -14,6 +14,15 @@ a = input()
 
 `print()`를 이용한다.
 
+### 문자열 연산
+```python
+print("life" "is" "too short")
+print("life"+"is"+"too shor")
+# 두 코드의 결과값은 같다
+```
+
+### 띄어쓰기
+,로 분류된 print의 각 인자는 띄어쓰기 후 출력된다.
 
 ### 끝 문자 지정
 ```pytohn
