@@ -1,7 +1,7 @@
 # Input (for Python CodingTest)
 > 파이썬 코딩 테스트 관련 입력 기법 정리
 
-## Input 사용
+# I. Input 사용
 > 가장 기본적인 사용 방법
 
 [기본 입력](../../../Bassic-Programming-Syntaxes/Python/Input-Output.md) 사용 방법
@@ -34,3 +34,7 @@
 ```Python
 userInput1, userInputB = map(int, input().split()) 
 ```
+
+<br>
+
+# II sys.readline(s)
