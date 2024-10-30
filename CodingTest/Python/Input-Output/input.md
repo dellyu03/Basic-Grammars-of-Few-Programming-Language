@@ -37,4 +37,4 @@ userInput1, userInputB = map(int, input().split())
 
 <br>
 
-# II sys.readline(s)
+# II sys.stdin.readline
