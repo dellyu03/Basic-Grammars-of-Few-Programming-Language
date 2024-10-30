@@ -1,7 +1,14 @@
-a = int(input())
-b = int(input())
+a, b, c = map(int, input().split())
+prize = 0
 
-if a>0:
-    print("14"[b<0])
-elif a<0:
-    print("23"[b>0])
+if a==b==c:
+    prize = 10000+a*1000
+elif a in [b,c]:
+    prize = 1000 + a * 100
+elif b == c:
+    prize = 1000 + b * 100
+else:
+    numbers = [a, b, c]
+    numbers.sort(reverse = True)
+    prize = numbers[0] * 100
+print(prize)
