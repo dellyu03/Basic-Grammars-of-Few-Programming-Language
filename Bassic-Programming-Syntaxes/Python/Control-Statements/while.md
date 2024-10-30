@@ -26,5 +26,3 @@ while 조건문:
     continue
     수행 문장2
 ```
-
-
