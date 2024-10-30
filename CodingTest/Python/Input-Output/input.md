@@ -72,7 +72,7 @@ n = int(sys.stdin.readline().strip())
 
 
 ## readlines
-> 줄 단위로 여러 줄을 한번에 읽어와 리스트로 리턴함
+> 줄 단위로 여러 줄을 한번에 읽어와 리스트로 리턴함 입력이 끝난후 줄단위로 읽음
 
 ```python
 Hello
@@ -93,5 +93,6 @@ lines = sys.stdin.readlines()
 ```
 
 ## sys.stdin
-> 
+> 실시간으로 줄단위로 읽음
 
+메모리 처리에 더 용이
