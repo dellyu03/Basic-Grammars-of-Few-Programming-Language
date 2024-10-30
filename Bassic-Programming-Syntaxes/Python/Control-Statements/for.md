@@ -2,7 +2,7 @@
 
 ## 기본 구조
 ```python
-for 변수 in list/tuple/string
+for 변수 in list/tuple/string:
     수행문1
     수행문2
 ```
