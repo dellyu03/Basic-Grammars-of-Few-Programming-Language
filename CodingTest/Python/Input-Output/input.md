@@ -72,7 +72,7 @@ n = int(sys.stdin.readline().strip())
 
 
 ## readlines
-> 줄 단위로 여러 줄을 읽어와 리스트로 리턴함
+> 줄 단위로 여러 줄을 한번에 읽어와 리스트로 리턴함
 
 ```python
 Hello
@@ -84,9 +84,14 @@ Python
 import sys
 
 lines = sys.stdin.readlines()
+
+# lines = [line.strip() for line in lines] 개행 문자 제거 코드
 ```
 리턴값
 ```python
-['Hello\n', 'World\n', 'Pythonn\n]
+['Hello\n', 'World\n', 'Pythonn\n']
 ```
+
+## sys.stdin
+> 
 

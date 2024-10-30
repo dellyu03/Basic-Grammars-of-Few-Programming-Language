@@ -79,6 +79,7 @@ string = "I eat %s apples" % five
 string = "I eat %d apples" % number
 ```
 해당 변수 타입에 맞게 포매팅
+
 - 2개 이상 넣기
 ```python
 string = "I eat %d apples.  so I was sick for %s days." %(number, day)
@@ -114,6 +115,7 @@ string = "Hello {lang}".format(lang="python")
 {0:10.4f} 소수점 표현
 {{ and }} 중괄호 표현
 
+"{0:>10}".format("hi")
 ```
 
 ## f문자열 포매팅
