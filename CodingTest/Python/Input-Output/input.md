@@ -38,3 +38,55 @@ userInput1, userInputB = map(int, input().split())
 <br>
 
 # II sys.stdin.readline
+> sys 객체를 사용한 방법
+
+> sys 객체 - 파이썬 프로그램과 운영체제 간의 상호작용을 도와주는 객체
+
+```python
+import sys
+n = int(sys.stdin.readline().strip())
+```
+
+## 1. sys.stdin.readline 작동원리
+- ### 입력 대기
+    - 메서드 호출 후 데이터를 기다림
+- ### 한줄 입력 받음
+    - 한줄 전체를 한꺼번에 입력받음 (개행 문자까지 포함)
+    - strip() 함수를통해 제거해야 함
+- ### 버퍼에 저장 
+    - 입력 데이터를 버퍼에 저장 해둠
+
+- ### 종료 신호 받고 반환
+    - EOF 신호가 오기 전까지 계속 입력을 받음
+    - EOF 도달 하면 빈 문자열을 반환하며 종료
+
+## 2. 장점 
+- ### 대용량 입력 빠른 입력 처리
+    - input과는 달리 줄 단위로 입력받오 대용량 데이터 처리에 유리
+
+## 3. 단점
+- ### 개행문자 포함
+- ### 모듈 임포트 필요
+- ### 단일 입력 비효율적
+
+
+
+## readlines
+> 줄 단위로 여러 줄을 읽어와 리스트로 리턴함
+
+```python
+Hello
+World
+Python
+```
+
+```python
+import sys
+
+lines = sys.stdin.readlines()
+```
+리턴값
+```python
+['Hello\n', 'World\n', 'Pythonn\n]
+```
+

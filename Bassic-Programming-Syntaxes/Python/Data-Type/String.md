@@ -117,8 +117,10 @@ string = "Hello {lang}".format(lang="python")
 ```
 
 ## f문자열 포매팅
+> 가장 간단함
 위 기능에 추가적으로 표현식을 지원함 (ex. 10+1) 
-```
+
+```python
 string = f"Hello world {name}"
 ```
 
@@ -129,7 +131,7 @@ string = f"Hello world {name}"
  - `index` : find와 같은 기능이지만 없으면 오류를 반환한다.
  - `join` : 인자로 들어간 문자열의 문자들 사이에 원하는 문자를 삽입한다. ( ex. ",".join(abcd) )
  - `upper`, `lower` : 대문자, 소문자 변환
- - `strip`, `lstrip`, `rstrip` : 양쪽 공백 제거, 가장 왼쪽 공백 제거, 가장 오른쪽 공백 제거
+ - `strip`, `lstrip`, `rstrip` : 양쪽 공백 제거, 가장 왼쪽 공백 제거, 가장 오른쪽 공백 제거(특정 문자를 제거하며 인자가 없으면 공백을 제거한다)
  - `replace` : 인자로 들어간 문자열을 특정 문자열로 바꾼다. (ex. string.replace("원래", "바꿀거"))
  - `split` : 문자열을 인자 기준으로 나눈다.
 

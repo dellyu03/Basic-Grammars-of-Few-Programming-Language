@@ -1,9 +1,7 @@
-n = int(input())
+import sys
 
-i = n//4
-result = ""
-str = "long "
+t = int(sys.stdin.readline().rstrip())
 
-for i in range(0,4):
-    result = result + str
-print(result + "int")
+for i in range(1, t+1):
+    a, b = map(int, sys.stdin.readline().rstrip().split())
+    print(f"Case #{i}: {a}+{b} = {a + b}")
