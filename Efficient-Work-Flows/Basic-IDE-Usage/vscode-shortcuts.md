@@ -18,4 +18,4 @@
 
 `⌥` + ⇧ + `i` / `Alt` + ⇧ + `i` : 선택 영역에 커서 만들기(줄 끝에 커서가 생김)
 
-`⌥` + ⇧ + Mouse Drag / `Alt` + ⇧ + Mouse Drag
+`⌥` + ⇧ + Mouse Drag / `Alt` + ⇧ + Mouse Drag : 드래그 하는 곳마다 커서 생성
